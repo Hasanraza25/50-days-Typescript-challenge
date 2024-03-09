@@ -10,7 +10,7 @@
 4. **Documentation**: Update daily logs with progress and lessons learned.
 
 ## Progress
-- [Day 1](/.day 1/) - [Day 100](/.day 100/)
+- [Day 1](./day 1/) - [Day 100](./day 100/)
 
 ## Connect with Me
 🌟 [GitHub](https://github.com/Hasanraza09)  
