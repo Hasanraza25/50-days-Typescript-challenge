@@ -9,9 +9,6 @@
 3. **Learning**: Focus on learning new concepts and languages.
 4. **Documentation**: Update daily logs with progress and lessons learned.
 
-## Progress
-- [Day 1](day 1) - [Day 100](day 100)
-
 ## Connect with Me
 🌟 [GitHub](https://github.com/Hasanraza09)  
 🔗 [LinkedIn](https://www.linkedin.com/in/hasan-raza-541b09228/) 
