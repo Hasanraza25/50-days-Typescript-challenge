@@ -1,5 +1,5 @@
-var current_users = ["Hasan", "Hussain", "Haram", "Hasnain", "Ali"];
-var new_users = ["Ahmed", "Shakeel", "Hussain", "Jawed", "Haram"];
+var current_users = ["Hasan", "Hussain", "admin", "Hasnain", "Ali"];
+var new_users = ["Ahmed", "Shakeel", "Hussain", "Jawed", "admin"];
 var _loop_1 = function (new_user) {
     var lowercase_new_user = new_user.toLowerCase();
     if (current_users.some(function (user) { return user.toLowerCase() === lowercase_new_user; })) {
