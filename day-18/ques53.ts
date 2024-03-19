@@ -6,6 +6,6 @@ let programmerSkills = {
 
 let { codingLanguages, frameworks, tools } = programmerSkills;
 
-console.log("Coding Language:", codingLanguages[0]);
+console.log("Coding Language:", codingLanguages[2]);
 console.log("tool:", tools[0]);
-console.log("framework:", frameworks[0]);
+console.log("framework:", frameworks[1]);
