@@ -3,7 +3,6 @@
 function joinStringAndNum(text: string, number: number) {
     return text + number;
 }
-
 console.log(joinStringAndNum("Age: ", 18));
 
 // Output: Age: 18
