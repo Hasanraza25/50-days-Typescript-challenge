@@ -7,5 +7,5 @@ try {
     pi = 3.214;
 }
 catch (error) {
-    console.error("Error caught while reassigning const variable:", error);
+    console.error("Error caught while reassigning const variable:", error); // Output: Error caught while reassigning const variable: TypeError: Assignment to constant variable.
 }

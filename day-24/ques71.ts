@@ -7,7 +7,7 @@ console.log("Updated age (let):", age); // Output: 18
 
 const pi: number = 3.142;
 try {
-    pi = 3.214;
+  pi = 3.214;
 } catch (error) {
-    console.error("Error caught while reassigning const variable:", error);
+  console.error("Error caught while reassigning const variable:", error);
 }
