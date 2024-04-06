@@ -2,4 +2,4 @@
 function addParameters(num1, num2) {
     return num1 + num2;
 }
-console.log(addParameters(6, 6));
+console.log(addParameters(6, 6)); // Output: 12

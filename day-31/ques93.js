@@ -8,4 +8,4 @@ function replaceFruit(arr) {
 var fruits = ["Oranges", "Apple", "Banana", "Strawberry"];
 replaceFruit(fruits);
 console.log(fruits);
-// Output: 
+// Output: [ 'Oranges', 'Apple', 'Mango', 'Strawberry' ]

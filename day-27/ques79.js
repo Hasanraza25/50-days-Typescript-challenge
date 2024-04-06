@@ -4,4 +4,4 @@ var car = {
     model: 'Mustang',
     year: 2022
 };
-console.log(car.model);
+console.log(car.model); // Output: Mustang

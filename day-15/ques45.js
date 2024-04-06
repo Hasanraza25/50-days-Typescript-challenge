@@ -15,5 +15,5 @@ function car_info(manufacturer, model) {
     }
     return car;
 }
-console.log(car_info("Toyota", "Corolla", ["color", "red"], ["year", 2020]));
+console.log(car_info("Honda", "Civic", ["color", "red"], ["year", 2020]));
 console.log(car_info("Ford", "Fiesta", ["color", "blue"], ["sunroof", true]));

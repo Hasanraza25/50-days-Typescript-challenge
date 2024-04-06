@@ -5,4 +5,5 @@ var vehicles;
     vehicles[vehicles["Trucks"] = 1] = "Trucks";
     vehicles[vehicles["Motorcycles"] = 2] = "Motorcycles";
 })(vehicles || (vehicles = {}));
-console.log(vehicles.Cars);
+console.log(vehicles.Cars); // Output : 0
+// Enums use numbers starting from 0 by default, unless we specify otherwise.

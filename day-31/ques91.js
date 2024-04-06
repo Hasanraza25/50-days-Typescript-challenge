@@ -2,4 +2,4 @@
 var favFruits = ["Mango", "Apple", "Banana"];
 favFruits.push("Strawberry");
 console.log(favFruits);
-// Output: 
+// Output: [ 'Mango', 'Apple', 'Banana', 'Strawberry' ]

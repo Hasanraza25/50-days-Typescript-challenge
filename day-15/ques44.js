@@ -4,11 +4,10 @@ function orderSandwich() {
         items[_i] = arguments[_i];
     }
     console.log("Sandwich Summary:");
-    console.log("Your Sandwich has following items:");
     items.forEach(function (item, idx) {
         console.log("".concat(idx + 1, "- ").concat(item));
     });
 }
-orderSandwich("Chicken", "Avocado", "Bacon", "Swiss Cheese", "Lettuce", "Tomato");
+orderSandwich("Chicken", "Avocado", "Lettuce", "Tomato");
 orderSandwich("Sliced roast beef", "Mayonnaise", "Lettuce", "Salt and pepper");
-orderSandwich("Cuban bread", "Roast pork", "Ham", "Swiss cheese", "Dill pickles", "Mustard", "Butter");
+orderSandwich("Cuban bread", "Roast pork", "Swiss cheese", "Dill pickles", "Mustard");
