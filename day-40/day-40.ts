@@ -14,7 +14,7 @@ while(count< 5){
 
 // Use a for...of loop to iterate through an array of your favorite movies and log each one.
 
-let favMovies: string[] = ['Avengers', '12th fail', '3 idiots', 'Taare zameen par', 'Dunky']
+let favMovies: string[] = ['Avengers', 'Inception', 'The Conjuring', '12th fail', '3 idiots']
 for(let val of favMovies){
     console.log(val);
 }
