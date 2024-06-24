@@ -10,4 +10,5 @@
 [What is DHCP?](https://roadmap.sh/guides/dhcp-in-one-picture)
 
 ## LinkedIn Slides
+[DNS and DHCP](https://www.linkedin.com/posts/hasan-raza-2581hr_dns-and-dhcp-activity-7210899523995414530-Y_iz?utm_source=share&utm_medium=member_desktop)
 
