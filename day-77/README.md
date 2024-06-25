@@ -10,5 +10,5 @@
 
 ## LinkedIn Slides
 
-[SSL vs TLS vs SSH Protocols]()
+[SSL vs TLS vs SSH Protocols](https://www.linkedin.com/posts/hasan-raza-2581hr_network-security-protocols-activity-7211285414731522049-l7XF?utm_source=share&utm_medium=member_desktop)
 
