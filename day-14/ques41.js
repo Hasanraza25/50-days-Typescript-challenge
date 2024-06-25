@@ -1,6 +1,7 @@
-var magicians = ["Penn & Teller", "Derren Brown", "Dai Vernon", "Lance Burton", "Black Herman"];
+"use strict";
+let magicians = ["Penn & Teller", "Derren Brown", "Dai Vernon", "Lance Burton", "Black Herman"];
 function show_magicians(magicians) {
-    magicians.forEach(function (magician) {
+    magicians.forEach((magician) => {
         console.log(magician);
     });
 }

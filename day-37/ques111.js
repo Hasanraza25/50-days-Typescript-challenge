@@ -1,3 +1,4 @@
+"use strict";
 //  Use an if-else-if chain to categorize a person's age group (child, teenager, adult).
 function categorizeAge(age) {
     if (age < 13) {
@@ -10,5 +11,5 @@ function categorizeAge(age) {
         return 'adult';
     }
 }
-var ageGroup = categorizeAge(18);
-console.log("Person's age group: ".concat(ageGroup));
+const ageGroup = categorizeAge(18);
+console.log(`Person's age group: ${ageGroup}`); // Output: teenager

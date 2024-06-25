@@ -1,6 +1,5 @@
 "use strict";
 // List three reserved words in JavaScript and create a valid use case for each.
-Object.defineProperty(exports, "__esModule", { value: true });
 // First reserved word: const
 const pi = 3.14;
 console.log(pi);

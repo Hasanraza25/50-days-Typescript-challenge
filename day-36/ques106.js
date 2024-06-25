@@ -1,3 +1,4 @@
+"use strict";
 // Determine if a given year is a leap year using comparison operators.
 function isLeapYear(year) {
     if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
@@ -7,5 +8,6 @@ function isLeapYear(year) {
         return false;
     }
 }
-var isLeap = isLeapYear(2024);
+const isLeap = isLeapYear(2024);
 console.log(isLeap);
+// Output: true because 2024 is a leap year

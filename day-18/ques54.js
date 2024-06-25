@@ -1,7 +1,8 @@
+"use strict";
 function createFlexibleObject(key, value) {
-    var dynamicObject = {};
+    let dynamicObject = {};
     dynamicObject[key] = value;
     return dynamicObject;
 }
-var userChoice = createFlexibleObject("favorite color", "blue");
+let userChoice = createFlexibleObject("favorite color", "blue");
 console.log(userChoice);

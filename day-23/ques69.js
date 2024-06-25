@@ -1,9 +1,10 @@
+"use strict";
 // Dividing and Finding the Remainder: Write a function that divides two numbers and returns both the quotient and the remainder. Use an object to return both values.
 function divideWithRemainder(divident, divisor) {
-    var quotient = Math.floor(divident / divisor);
-    var remainder = divident % divisor;
-    return { quotient: quotient, remainder: remainder };
+    const quotient = Math.floor(divident / divisor);
+    const remainder = divident % divisor;
+    return { quotient, remainder };
 }
-var result = divideWithRemainder(15, 2);
+const result = divideWithRemainder(15, 2);
 console.log(result);
-// Output: {7, 1}
+// Output: { quotient: 7, remainder: 1 }

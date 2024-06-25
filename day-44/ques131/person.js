@@ -2,14 +2,13 @@
 // Export class
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Person = void 0;
-var Person = /** @class */ (function () {
-    function Person(name, age) {
+class Person {
+    constructor(name, age) {
         this.name = name;
         this.age = age;
     }
-    Person.prototype.greet = function () {
-        console.log("Hello, my name is ".concat(this.name, " and I am ").concat(this.age, " years old."));
-    };
-    return Person;
-}());
+    greet() {
+        console.log(`Hello, my name is ${this.name} and I am ${this.age} years old.`);
+    }
+}
 exports.Person = Person;

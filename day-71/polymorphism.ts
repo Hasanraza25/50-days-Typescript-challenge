@@ -19,5 +19,10 @@ class Cat extends Animal {
 const animals: Animal[] = [new Dog(), new Cat()];
 
 animals.forEach((animal) => {
-  animal.makeSound(); // Outputs "Bark" for Dog and "Meow" for Cat
-});
+  animal.makeSound();
+})
+
+
+// animals.forEach((animal) => {
+//   animal.makeSound(); // Outputs "Bark" for Dog and "Meow" for Cat
+// });

@@ -1,6 +1,7 @@
+"use strict";
 // Use a switch statement to log the days of the week based on a number (1-7).
 function getDaysOfWeek(dayNumber) {
-    var dayName;
+    let dayName;
     switch (dayNumber) {
         case 1:
             return 'Monday';
@@ -29,6 +30,6 @@ function getDaysOfWeek(dayNumber) {
     }
     return dayName;
 }
-var dayOfWeek = getDaysOfWeek(5);
-console.log("Day of the week: ".concat(dayOfWeek));
+let dayOfWeek = getDaysOfWeek(5);
+console.log(`Day of the week: ${dayOfWeek}`);
 // Output: Friday

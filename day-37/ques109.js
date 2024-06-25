@@ -1,7 +1,8 @@
+"use strict";
 // Write an if statement that logs "Good Morning" if the current time is before 12 PM.
-var currentTime = new Date();
-var currentHour = currentTime.getHours();
+const currentTime = new Date();
+const currentHour = currentTime.getHours();
 if (currentHour < 12) {
     console.log("Good Morning!");
 }
-// Output: Morning (if it's before 12 PM)
+// Output: Good Morning! (if it's before 12 PM)

@@ -1,7 +1,6 @@
-function make_shirt(size, message) {
-    if (size === void 0) { size = "large"; }
-    if (message === void 0) { message = "I love TypeScript"; }
-    console.log("The size of shirt is ".concat(size, " and the message printed on it is \"").concat(message, "\"."));
+"use strict";
+function make_shirt(size = "large", message = "I love TypeScript") {
+    console.log(`The size of shirt is ${size} and the message printed on it is "${message}".`);
 }
 // For Large Shirt
 make_shirt();

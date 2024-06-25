@@ -1,3 +1,4 @@
+"use strict";
 // Create a function that assigns a grade (A, B, C, D, F) based on a student's score.
 function assignGrade(score) {
     if (score >= 80) {
@@ -16,5 +17,5 @@ function assignGrade(score) {
         return 'F';
     }
 }
-var grade = assignGrade(78);
-console.log(grade);
+let grade = assignGrade(78);
+console.log(grade); // Output: B

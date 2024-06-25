@@ -1,4 +1,5 @@
-var age = 18;
+"use strict";
+let age = 18;
 if (age < 2) {
     console.log("The Person is a baby.");
 }

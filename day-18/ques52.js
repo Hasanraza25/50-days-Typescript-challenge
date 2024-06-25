@@ -1,4 +1,5 @@
-var smartphone = {
+"use strict";
+let smartphone = {
     brand: "Realme",
     model: "Realme X Pro",
     storage: "128GB",

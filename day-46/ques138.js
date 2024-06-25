@@ -1,3 +1,4 @@
+"use strict";
 // Describe how to use breakpoints in browser developer tools to debug JavaScript code.
 function triggerBreakpoint() {
     debugger; // This line sets a breakpoint in the browser's developer tools

@@ -1,8 +1,9 @@
-var str1 = "Hasan";
-var str2 = "Raza";
-var num1 = 6;
-var num2 = 12;
-var array = [1, 2, 3, 4, 5];
+"use strict";
+let str1 = "Hasan";
+let str2 = "Raza";
+let num1 = 6;
+let num2 = 12;
+let array = [1, 2, 3, 4, 5];
 console.log("Tests for equality and inequality with strings:");
 console.log(str1 === "Hasan");
 console.log(str2 !== "Raza");

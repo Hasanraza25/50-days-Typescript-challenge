@@ -1,6 +1,7 @@
+"use strict";
 // Create a switch case that matches several cases to the same code block, representing seasons.
 function getSeason(month) {
-    var season;
+    let season;
     switch (month) {
         case 1:
         case 2:
@@ -28,5 +29,6 @@ function getSeason(month) {
     }
     return season;
 }
-var currentSeason = getSeason(4);
-console.log("Current season: ".concat(currentSeason));
+let currentSeason = getSeason(4);
+console.log(`Current season: ${currentSeason}`);
+// Output: Current season: Spring

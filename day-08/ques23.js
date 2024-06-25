@@ -1,4 +1,5 @@
-var number = 6;
+"use strict";
+let number = 6;
 // Test 1
 console.log("Is number equal to 6? I predict True.");
 console.log(number == 6);

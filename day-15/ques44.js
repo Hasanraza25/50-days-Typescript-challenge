@@ -1,11 +1,8 @@
-function orderSandwich() {
-    var items = [];
-    for (var _i = 0; _i < arguments.length; _i++) {
-        items[_i] = arguments[_i];
-    }
+"use strict";
+function orderSandwich(...items) {
     console.log("Sandwich Summary:");
-    items.forEach(function (item, idx) {
-        console.log("".concat(idx + 1, "- ").concat(item));
+    items.forEach((item, idx) => {
+        console.log(`${idx + 1}- ${item}`);
     });
 }
 orderSandwich("Chicken", "Avocado", "Lettuce", "Tomato");

@@ -1,5 +1,6 @@
+"use strict";
 // Object Definition
-var personExOne;
+let personExOne;
 personExOne = {
     name: "Alice",
     age: 30,
@@ -10,7 +11,7 @@ personExOne = {
     },
 };
 // Object Initialization with type annotation
-var personExTwo = {
+let personExTwo = {
     name: "Alice",
     age: 30,
     jobTitle: "Engineer",

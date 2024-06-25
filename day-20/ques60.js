@@ -1,10 +1,12 @@
+"use strict";
+// Self-Running User Profile: Create a quick, self-setup profile for a user that can tell you the user's name and age.
 // IIFE for encapsulation and scoping
-var userProfile = (function () {
-    var name = "Hasan";
-    var age = 18;
+const userProfile = (() => {
+    const name = "Hasan";
+    const age = 18;
     return {
-        showProfile: function () {
-            console.log("Name: ".concat(name, ", Age: ").concat(age));
+        showProfile() {
+            console.log(`Name: ${name}, Age: ${age}`);
         }
     };
 })();

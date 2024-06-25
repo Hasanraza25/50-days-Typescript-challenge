@@ -1,4 +1,11 @@
+"use strict";
 // Take a JSON string and parse it into a JavaScript object.
-var jsonString = "{\n  \"name\": \"Hasan Raza\",\n  \"age\": 18,\n  \"email\": \"hasanhussain2580@gmail.com\",\n  \"isActive\": true,\n  \"hobbies\": [\"reading\", \"traveling\", \"acting\"]\n}";
-var parsedObject = JSON.parse(jsonString);
+const jsonString = `{
+  "name": "Hasan Raza",
+  "age": 18,
+  "email": "hasanhussain2580@gmail.com",
+  "isActive": true,
+  "hobbies": ["reading", "traveling", "acting"]
+}`;
+const parsedObject = JSON.parse(jsonString);
 console.log(parsedObject);

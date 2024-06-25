@@ -1,6 +1,7 @@
+"use strict";
 // Implement a switch statement that evaluates an expression and uses the default case if none of the cases match.
 function categorizeFruit(fruit) {
-    var category;
+    let category;
     switch (fruit.toLowerCase()) {
         case 'apple':
         case 'orange':
@@ -20,5 +21,6 @@ function categorizeFruit(fruit) {
     }
     return category;
 }
-var fruitCategory = categorizeFruit("Cherry");
-console.log("The fruit is categorized as: ".concat(fruitCategory));
+const fruitCategory = categorizeFruit("Cherry");
+console.log(`The fruit is categorized as: ${fruitCategory}`);
+// Output: The fruit is categorized as: Unknown Fruit

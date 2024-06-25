@@ -43,5 +43,8 @@ var Cat = /** @class */ (function (_super) {
 }(Animal));
 var animals = [new Dog(), new Cat()];
 animals.forEach(function (animal) {
-    animal.makeSound(); // Outputs "Bark" for Dog and "Meow" for Cat
+    animal.makeSound();
 });
+// animals.forEach((animal) => {
+//   animal.makeSound(); // Outputs "Bark" for Dog and "Meow" for Cat
+// });

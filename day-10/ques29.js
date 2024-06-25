@@ -1,4 +1,5 @@
-var favorite_fruits = ["Mango", "Apple", "Banana"];
+"use strict";
+let favorite_fruits = ["Mango", "Apple", "Banana"];
 if (favorite_fruits.indexOf("Mango") !== -1) {
     console.log("I really like Mango.");
 }

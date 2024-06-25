@@ -1,2 +1,6 @@
-var myIdealDay = "My Ideal Day:\nWaking up early to pray Fajr prayer.\nSpending a few hours learning TypeScript.\nEnding the day by spending time with family.";
+"use strict";
+let myIdealDay = `My Ideal Day:
+Waking up early to pray Fajr prayer.
+Spending a few hours learning TypeScript.
+Ending the day by spending time with family.`;
 console.log(myIdealDay);

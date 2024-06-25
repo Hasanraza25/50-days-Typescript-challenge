@@ -1,11 +1,12 @@
-var usernames = [];
+"use strict";
+let usernames = [];
 if (usernames.length > 0) {
-    usernames.forEach(function (username) {
+    usernames.forEach(username => {
         if (username === "admin") {
             console.log("Hello admin, would you like to see a status report?");
         }
         else {
-            console.log("Hello ".concat(username, ", thank you for logging in again."));
+            console.log(`Hello ${username}, thank you for logging in again.`);
         }
     });
 }
