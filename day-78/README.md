@@ -1,6 +1,6 @@
-# Day-77 of 100-Days-Of-Code Challenge
+# Day-78 of 100-Days-Of-Code Challenge
 
-## Task for Day 77
+## Task for Day 78
 
 - Read and understand the following Visual Guide about Web Vitals.
 
