@@ -10,4 +10,4 @@
 
 ## LinkedIn Slides
 
-[What are Web Vitals?]()
+[What are Web Vitals?](https://www.linkedin.com/posts/hasan-raza-2581hr_web-vitals-activity-7211632293310869504-XBas?utm_source=share&utm_medium=member_desktop)
