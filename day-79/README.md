@@ -10,4 +10,4 @@
 
 ## LinkedIn Slides
 
-[Basics Of Authentication]()
+[Basics Of Authentication](https://www.linkedin.com/posts/hasan-raza-2581hr_%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-ugcPost-7212023290268123136-oXnj?utm_source=share&utm_medium=member_desktop)
