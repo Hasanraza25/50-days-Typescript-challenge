@@ -10,4 +10,4 @@
 
 ## LinkedIn Slides
 
-[Full Stack Developer vs. Software Engineer]()
+[Full Stack Developer vs. Software Engineer](https://www.linkedin.com/posts/hasan-raza-2581hr_full-stack-developer-vs-software-engineer-activity-7212480035440459776-u65C?utm_source=share&utm_medium=member_desktop)
