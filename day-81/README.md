@@ -11,4 +11,4 @@
 
 ## LinkedIn Slides
 
-[React Foundation]()
+[React Foundation](https://www.linkedin.com/posts/hasan-raza-2581hr_%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7213203361980932096-WI6T?utm_source=share&utm_medium=member_desktop)
